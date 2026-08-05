@@ -73,9 +73,11 @@ restart the server, at which point the in-memory list resets.
 
 ## Screenshot
 
-_Add a screenshot of the app running here with at least 2 notes in the list._
+<img width="1917" height="875" alt="image" src="https://github.com/user-attachments/assets/15a941e0-f172-41c8-97e3-f21e807ce014" />
 
-## Notes
+
+
+
 
 - Update and Delete are intentionally left out — this assignment only
   requires Create and Read.
