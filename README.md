@@ -79,7 +79,7 @@ restart the server, at which point the in-memory list resets.
 
 
 
-- Update and Delete are intentionally left out — this assignment only
-  requires Create and Read.
+- Update and Delete are intentionally present — this assignment only
+  requires Create and Read and update.
 - All server-side data lives in a plain JavaScript array in `server.js`,
   so it does not persist across server restarts.
